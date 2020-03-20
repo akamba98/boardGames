@@ -1,1 +1,1 @@
-# boardGames
+# Board Games Library
